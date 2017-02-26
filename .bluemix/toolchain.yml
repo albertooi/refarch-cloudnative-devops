@@ -334,7 +334,7 @@ deploy:
     repo-branch: "{{branch}}"
     deploy-org: "{{organization}}"
     deploy-space: "{{space}}"
-	deploy-suffix:"{{space}}"    
+deploy-suffix: "{{space}}"    
 deploy-region-us: "ibm:yp:us-south"
     deploy-region-eu: "ibm:yp:eu-gb"
     route-domain-us: "mybluemix.net"
